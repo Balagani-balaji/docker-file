@@ -1,6 +1,8 @@
 FROM almalinux:9
 LABEL COURSE="docker" \
-    TRAINER="SIVA" \
-    DURATION="10 HOURS"
+    TRAINER="BALAJI" \
+    DURATION="10 HOURS" \
+    AUTHOR="BALU"
+
 
 
